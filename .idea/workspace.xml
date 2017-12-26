@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5597588c-a772-4262-8095-3cbc534e4299" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mobile-init/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-14">
+              <caret line="11" column="9" lean-forward="false" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mobile-init/src/router/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-30">
+              <caret line="10" column="45" lean-forward="false" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="App.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mobile-init/src/App.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mobile-init/config/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-14">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1514271533936" expanded="true" signature="13:106" ph="//..." />
+                <marker date="1514271533936" expanded="true" signature="155:2277" ph="{...}" />
+                <marker date="1514271533936" expanded="true" signature="164:1312" ph="{&quot;assetsSubDirectory&quot;: 'static'...}" />
+                <marker date="1514271533936" expanded="true" signature="651:681" ph="/** Source Maps ...*/" />
+                <marker date="1514271533936" expanded="true" signature="785:947" ph="//..." />
+                <marker date="1514271533936" expanded="true" signature="977:1283" ph="//..." />
+                <marker date="1514271533936" expanded="true" signature="1324:2275" ph="{&quot;assetsSubDirectory&quot;: 'static'...}" />
+                <marker date="1514271533936" expanded="true" signature="1547:1577" ph="/** Source Maps ...*/" />
+                <marker date="1514271533936" expanded="true" signature="1707:1934" ph="//..." />
+                <marker date="1514271533936" expanded="true" signature="2012:2215" ph="//..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="webpack.base.conf.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mobile-init/build/webpack.base.conf.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-14">
+              <caret line="27" column="36" lean-forward="false" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
+              <folding>
+                <marker date="1514272907256" expanded="true" signature="188:232" ph="{...}" />
+                <marker date="1514272907256" expanded="true" signature="253:2032" ph="{...}" />
+                <marker date="1514272907256" expanded="true" signature="307:337" ph="{&quot;app&quot;: './src/main.js'...}" />
+                <marker date="1514272907256" expanded="true" signature="349:544" ph="{&quot;path&quot;: config.build.assetsRoot...}" />
+                <marker date="1514272907256" expanded="true" signature="557:724" ph="{...}" />
+                <marker date="1514272907256" expanded="true" signature="612:720" ph="{&quot;vue$&quot;: 'vue/dist/vue.esm.js'...}" />
+                <marker date="1514272907256" expanded="true" signature="736:1630" ph="{...}" />
+                <marker date="1514272907256" expanded="true" signature="749:1626" ph="[...]" />
+                <marker date="1514272907256" expanded="true" signature="757:853" ph="{&quot;loader&quot;: 'vue-loader'...}" />
+                <marker date="1514272907256" expanded="true" signature="861:976" ph="{&quot;loader&quot;: 'babel-loader'...}" />
+                <marker date="1514272907256" expanded="true" signature="984:1185" ph="{&quot;loader&quot;: 'url-loader'...}" />
+                <marker date="1514272907256" expanded="true" signature="1080:1177" ph="{...}" />
+                <marker date="1514272907256" expanded="true" signature="1193:1408" ph="{&quot;loader&quot;: 'url-loader'...}" />
+                <marker date="1514272907256" expanded="true" signature="1301:1400" ph="{...}" />
+                <marker date="1514272907256" expanded="true" signature="1416:1620" ph="{&quot;loader&quot;: 'url-loader'...}" />
+                <marker date="1514272907256" expanded="true" signature="1513:1612" ph="{...}" />
+                <marker date="1514272907256" expanded="true" signature="1640:2030" ph="{&quot;dgram&quot;: 'empty'...}" />
+                <marker date="1514272907256" expanded="true" signature="1646:1787" ph="//..." />
+                <marker date="1514272907256" expanded="true" signature="1817:1926" ph="//..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mobile-init/src/views/index.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".editorconfig" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mobile-init/.editorconfig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mobile-init/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="init.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mobile-init/src/styles/init.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-72">
+              <caret line="13" column="47" lean-forward="true" selection-start-line="13" selection-start-column="47" selection-end-line="13" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mobile-init/src/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="4" column="29" lean-forward="true" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#140#161#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/mobile-init/index.html" />
+        <option value="$PROJECT_DIR$/mobile-init/build/webpack.base.conf.js" />
+        <option value="$PROJECT_DIR$/mobile-init/src/router/index.js" />
+        <option value="$PROJECT_DIR$/mobile-init/.editorconfig" />
+        <option value="$PROJECT_DIR$/mobile-init/src/styles/init.css" />
+        <option value="$PROJECT_DIR$/mobile-init/src/App.vue" />
+        <option value="$PROJECT_DIR$/mobile-init/src/views/index.vue" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/mobile-init/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="753" />
+    <option name="y" value="561" />
+    <option name="width" value="1278" />
+    <option name="height" value="804" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="移动端初始化仓库" type="b2602c69:ProjectViewProjectNode" />
+              <item name="移动端初始化仓库" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="移动端初始化仓库" type="b2602c69:ProjectViewProjectNode" />
+              <item name="移动端初始化仓库" type="462c0819:PsiDirectoryNode" />
+              <item name="mobile-init" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="移动端初始化仓库" type="b2602c69:ProjectViewProjectNode" />
+              <item name="移动端初始化仓库" type="462c0819:PsiDirectoryNode" />
+              <item name="mobile-init" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="移动端初始化仓库" type="b2602c69:ProjectViewProjectNode" />
+              <item name="移动端初始化仓库" type="462c0819:PsiDirectoryNode" />
+              <item name="mobile-init" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="add_unversioned_files" value="true" />
+    <property name="ignore_missing_gitignore" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\64661_000\Desktop\移动端初始化仓库\mobile-init\src\router" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5597588c-a772-4262-8095-3cbc534e4299" name="Default" comment="" />
+      <created>1514271402691</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1514271402691</updated>
+      <workItem from="1514271403889" duration="2127000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2127000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="2578" height="1420" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12706737" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Weex Documents" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28762543" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/mobile-init/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-14">
+          <caret line="11" column="9" lean-forward="false" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile-init/build/webpack.base.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-14">
+          <caret line="27" column="36" lean-forward="false" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
+          <folding>
+            <marker date="1514272907256" expanded="true" signature="188:232" ph="{...}" />
+            <marker date="1514272907256" expanded="true" signature="253:2032" ph="{...}" />
+            <marker date="1514272907256" expanded="true" signature="307:337" ph="{&quot;app&quot;: './src/main.js'...}" />
+            <marker date="1514272907256" expanded="true" signature="349:544" ph="{&quot;path&quot;: config.build.assetsRoot...}" />
+            <marker date="1514272907256" expanded="true" signature="557:724" ph="{...}" />
+            <marker date="1514272907256" expanded="true" signature="612:720" ph="{&quot;vue$&quot;: 'vue/dist/vue.esm.js'...}" />
+            <marker date="1514272907256" expanded="true" signature="736:1630" ph="{...}" />
+            <marker date="1514272907256" expanded="true" signature="749:1626" ph="[...]" />
+            <marker date="1514272907256" expanded="true" signature="757:853" ph="{&quot;loader&quot;: 'vue-loader'...}" />
+            <marker date="1514272907256" expanded="true" signature="861:976" ph="{&quot;loader&quot;: 'babel-loader'...}" />
+            <marker date="1514272907256" expanded="true" signature="984:1185" ph="{&quot;loader&quot;: 'url-loader'...}" />
+            <marker date="1514272907256" expanded="true" signature="1080:1177" ph="{...}" />
+            <marker date="1514272907256" expanded="true" signature="1193:1408" ph="{&quot;loader&quot;: 'url-loader'...}" />
+            <marker date="1514272907256" expanded="true" signature="1301:1400" ph="{...}" />
+            <marker date="1514272907256" expanded="true" signature="1416:1620" ph="{&quot;loader&quot;: 'url-loader'...}" />
+            <marker date="1514272907256" expanded="true" signature="1513:1612" ph="{...}" />
+            <marker date="1514272907256" expanded="true" signature="1640:2030" ph="{&quot;dgram&quot;: 'empty'...}" />
+            <marker date="1514272907256" expanded="true" signature="1646:1787" ph="//..." />
+            <marker date="1514272907256" expanded="true" signature="1817:1926" ph="//..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile-init/config/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-14">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1514271533936" expanded="true" signature="13:106" ph="//..." />
+            <marker date="1514271533936" expanded="true" signature="155:2277" ph="{...}" />
+            <marker date="1514271533936" expanded="true" signature="164:1312" ph="{&quot;assetsSubDirectory&quot;: 'static'...}" />
+            <marker date="1514271533936" expanded="true" signature="651:681" ph="/** Source Maps ...*/" />
+            <marker date="1514271533936" expanded="true" signature="785:947" ph="//..." />
+            <marker date="1514271533936" expanded="true" signature="977:1283" ph="//..." />
+            <marker date="1514271533936" expanded="true" signature="1324:2275" ph="{&quot;assetsSubDirectory&quot;: 'static'...}" />
+            <marker date="1514271533936" expanded="true" signature="1547:1577" ph="/** Source Maps ...*/" />
+            <marker date="1514271533936" expanded="true" signature="1707:1934" ph="//..." />
+            <marker date="1514271533936" expanded="true" signature="2012:2215" ph="//..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile-init/src/router/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-30">
+          <caret line="10" column="45" lean-forward="false" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile-init/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="29" lean-forward="true" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#140#161#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile-init/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile-init/src/styles/init.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-72">
+          <caret line="13" column="47" lean-forward="true" selection-start-line="13" selection-start-column="47" selection-end-line="13" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile-init/src/views/index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile-init/.editorconfig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile-init/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
